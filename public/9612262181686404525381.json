@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "831468445922",
+    "project_id": "inzagi-inc",
+    "storage_bucket": "inzagi-inc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831468445922:android:e55c6eaba6242bc81abebb",
+        "android_client_info": {
+          "package_name": "com.aadharcardloanapp.dhanipersonalloanguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3pyqlfKsEhoasaZ-XOQvTNdE--vo6PjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831468445922:android:15664860994b12a41abebb",
+        "android_client_info": {
+          "package_name": "com.consultarecibocfe.luzcfeguia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3pyqlfKsEhoasaZ-XOQvTNdE--vo6PjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831468445922:android:e57a43f4cc3ba72c1abebb",
+        "android_client_info": {
+          "package_name": "com.fblitemessenger.tipsformessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3pyqlfKsEhoasaZ-XOQvTNdE--vo6PjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
